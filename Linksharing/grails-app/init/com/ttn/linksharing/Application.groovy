@@ -1,4 +1,4 @@
-package linksharing
+package com.ttn.linksharing
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
