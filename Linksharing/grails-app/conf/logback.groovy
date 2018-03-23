@@ -30,12 +30,12 @@ if (Environment.isDevelopmentMode() && targetDir != null) {
     logger("StackTrace", ERROR, ['FULL_STACKTRACE'], false)
 }
 root(ERROR, ['STDOUT'])
-root(INFO, ['STDOUT'])
+/*root(INFO, ['STDOUT'])
 root(WARN, ['STDOUT'])
 root(TRACE, ['STDOUT'])
 
 
 logger 'grails-app.controllers', INFO, ['STDOUT']
 logger 'grails-app.controllers', WARN, ['STDOUT']
-logger 'grails-app.controllers', TRACE, ['STDOUT']
+logger 'grails-app.controllers', TRACE, ['STDOUT']*/
 
